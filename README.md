@@ -23,7 +23,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:parsa.jamshidi@mail.utoronto.ca">
+  <a href="mailto:uniparsaj005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/parsa1j" target="_blank">
