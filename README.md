@@ -14,7 +14,7 @@
 
   🤖 Recently exploring LLM APIs, multi-agent systems, and full-stack development
 
-  🏆 2× GenAI Genesis Hackathon builder — TalentFlow (2026) · VortexWatch (2024)
+  🏆 2× GenAI Genesis Hackathon builder — TalentFlow (2026) · VortexWatch (2025)
 
   🌱 Studying CS (Cybersecurity Specialist + Math Minor) @ University of Toronto
 
