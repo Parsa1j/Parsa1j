@@ -4,21 +4,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Parsa!;" />
 </h1>
 
-<h3 align="center">Building AI Systems & Multi-Agent Pipelines · CS @ University of Toronto</h3>
+<h3 align="center">CS Student @ University of Toronto · Software & AI Developer</h3>
 
 <br/>
 
 <div align="center">
 
-  🤖 Currently building <strong>AgentForge</strong> — AI agents that collaborate to write software end-to-end
+  🚀 I love building things — from low-level systems in C to AI-powered web apps
 
-  🏆 2× GenAI Genesis Hackathon — TalentFlow (2026) · VortexWatch (2024)
+  🤖 Recently exploring LLM APIs, multi-agent systems, and full-stack development
 
-  🧠 Interested in multi-agent LLM systems, AI-native software, and full-stack dev
+  🏆 2× GenAI Genesis Hackathon builder — TalentFlow (2026) · VortexWatch (2024)
 
   🌱 Studying CS (Cybersecurity Specialist + Math Minor) @ University of Toronto
 
-  📍 Toronto, ON — open to AI/software internships
+  💬 Ask me about algorithms, systems programming, or building with AI APIs
 
 </div>
 
@@ -39,7 +39,7 @@
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,java,c,git,github,linux,mysql,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,fastapi,django,git,github,linux,mysql,tensorflow" />
 </div>
 <br/>
 <div align="center">
