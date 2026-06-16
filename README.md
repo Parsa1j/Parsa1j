@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  🚀 I love building things — from low-level systems in C to AI-powered web apps
+  🚀 I love building things from low-level systems in C to AI-powered web apps
 
   🤖 Recently exploring LLM APIs, multi-agent systems, and full-stack development
 
